@@ -1,8 +1,6 @@
 """
 Topic Modelling pipeline: ingestion → LDA → analysis → visualization.
 
-Run with a virtual environment active and dependencies from requirements.txt installed.
-Example: python main.py
 """
 
 from pathlib import Path
