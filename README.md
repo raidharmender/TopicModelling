@@ -17,4 +17,9 @@ Python application for topic modelling using **Gensim** and **Latent Dirichlet A
    python main.py
    ```
 
-   Outputs are written to the `output/` directory: interactive pyLDAvis HTML, bar chart, heatmap, topic–word network, and a Plotly dashboard.
+   Outputs are written to the `output/` directory:
+   1. pyLDAvis HTML
+   1. bar chart
+   1. heatmap
+   1. topic–word network
+   1. Plotly dashboard
