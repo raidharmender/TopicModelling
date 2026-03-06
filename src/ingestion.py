@@ -1,7 +1,7 @@
 """
 Document ingestion: preprocessing and corpus building.
 
-Pipeline: raw text → tokenize → filter (stopwords, min/max length) → lemmatize
+raw text → tokenize → filter (stopwords, min/max length) → lemmatize
 → Gensim Dictionary → Corpus (BoW or TF-IDF).
 """
 
